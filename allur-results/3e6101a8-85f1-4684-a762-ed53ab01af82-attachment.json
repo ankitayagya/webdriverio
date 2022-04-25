@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[@data-qa='contractor-tax-residence-province' and @class='deel-ui__select__input-container']/div/div[1]/div[1]"
+}

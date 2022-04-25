@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//a[@class='logo']\"}\n  (Session info: chrome=100.0.4896.127)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x01137413+2389011]\n\tOrdinal0 [0x010C9F61+1941345]\n\tOrdinal0 [0x00FBC658+837208]\n\tOrdinal0 [0x00FE91DD+1020381]\n\tOrdinal0 [0x00FE949B+1021083]\n\tOrdinal0 [0x01016032+1204274]\n\tOrdinal0 [0x01004194+1130900]\n\tOrdinal0 [0x01014302+1196802]\n\tOrdinal0 [0x01003F66+1130342]\n\tOrdinal0 [0x00FDE546+976198]\n\tOrdinal0 [0x00FDF456+980054]\n\tGetHandleVerifier [0x012E9632+1727522]\n\tGetHandleVerifier [0x0139BA4D+2457661]\n\tGetHandleVerifier [0x011CEB81+569713]\n\tGetHandleVerifier [0x011CDD76+566118]\n\tOrdinal0 [0x010D0B2B+1968939]\n\tOrdinal0 [0x010D5988+1989000]\n\tOrdinal0 [0x010D5A75+1989237]\n\tOrdinal0 [0x010DECB1+2026673]\n\tBaseThreadInitThunk [0x76C46739+25]\n\tRtlGetFullPathName_UEx [0x77C28E7F+1215]\n\tRtlGetFullPathName_UEx [0x77C28E4D+1165]\n"
+}

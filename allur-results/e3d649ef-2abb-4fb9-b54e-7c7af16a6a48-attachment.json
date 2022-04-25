@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//div[@id='react-select-3-group-1-heading']//following::div/div[3]\"}\n  (Session info: chrome=100.0.4896.127)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x01037413+2389011]\n\tOrdinal0 [0x00FC9F61+1941345]\n\tOrdinal0 [0x00EBC658+837208]\n\tOrdinal0 [0x00EE91DD+1020381]\n\tOrdinal0 [0x00EE949B+1021083]\n\tOrdinal0 [0x00F16032+1204274]\n\tOrdinal0 [0x00F04194+1130900]\n\tOrdinal0 [0x00F14302+1196802]\n\tOrdinal0 [0x00F03F66+1130342]\n\tOrdinal0 [0x00EDE546+976198]\n\tOrdinal0 [0x00EDF456+980054]\n\tGetHandleVerifier [0x011E9632+1727522]\n\tGetHandleVerifier [0x0129BA4D+2457661]\n\tGetHandleVerifier [0x010CEB81+569713]\n\tGetHandleVerifier [0x010CDD76+566118]\n\tOrdinal0 [0x00FD0B2B+1968939]\n\tOrdinal0 [0x00FD5988+1989000]\n\tOrdinal0 [0x00FD5A75+1989237]\n\tOrdinal0 [0x00FDECB1+2026673]\n\tBaseThreadInitThunk [0x76C46739+25]\n\tRtlGetFullPathName_UEx [0x77C28E7F+1215]\n\tRtlGetFullPathName_UEx [0x77C28E4D+1165]\n"
+}

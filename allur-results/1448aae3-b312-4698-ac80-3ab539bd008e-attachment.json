@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//mb-10[normalize-space() = \"Creating a fixed contract\"]"
+}

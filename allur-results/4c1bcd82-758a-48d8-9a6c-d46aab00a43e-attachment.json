@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[@id='react-select-3-group-1-heading']//following::div/div[3]"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//div[@class='input-container' and @data-qa='contractor-tax-residence']/div/div/div/div/div"
+}

@@ -1,0 +1,9 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": [],
+        "code-runner.runInTerminal": false,
+        "code-runner.runInOutput": true,
+    }
+}

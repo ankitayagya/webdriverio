@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//*[contains(@class, \"mb-10\") and normalize-space() = \"Creating a fixed contract\"]"
+}

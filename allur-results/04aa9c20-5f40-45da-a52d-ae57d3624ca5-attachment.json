@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".deel-ui__select__control css-yk16xz-control\"}\n  (Session info: chrome=100.0.4896.88)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00C37413+2389011]\n\tOrdinal0 [0x00BC9F61+1941345]\n\tOrdinal0 [0x00ABC658+837208]\n\tOrdinal0 [0x00AE91DD+1020381]\n\tOrdinal0 [0x00AE949B+1021083]\n\tOrdinal0 [0x00B16032+1204274]\n\tOrdinal0 [0x00B04194+1130900]\n\tOrdinal0 [0x00B14302+1196802]\n\tOrdinal0 [0x00B03F66+1130342]\n\tOrdinal0 [0x00ADE546+976198]\n\tOrdinal0 [0x00ADF456+980054]\n\tGetHandleVerifier [0x00DE9632+1727522]\n\tGetHandleVerifier [0x00E9BA4D+2457661]\n\tGetHandleVerifier [0x00CCEB81+569713]\n\tGetHandleVerifier [0x00CCDD76+566118]\n\tOrdinal0 [0x00BD0B2B+1968939]\n\tOrdinal0 [0x00BD5988+1989000]\n\tOrdinal0 [0x00BD5A75+1989237]\n\tOrdinal0 [0x00BDECB1+2026673]\n\tBaseThreadInitThunk [0x76C46739+25]\n\tRtlGetFullPathName_UEx [0x77C28E7F+1215]\n\tRtlGetFullPathName_UEx [0x77C28E4D+1165]\n"
+}

@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\".//h2[@class='mb-10']\"}\n  (Session info: chrome=100.0.4896.88)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00BA7413+2389011]\n\tOrdinal0 [0x00B39F61+1941345]\n\tOrdinal0 [0x00A2C658+837208]\n\tOrdinal0 [0x00A591DD+1020381]\n\tOrdinal0 [0x00A5949B+1021083]\n\tOrdinal0 [0x00A86032+1204274]\n\tOrdinal0 [0x00A74194+1130900]\n\tOrdinal0 [0x00A84302+1196802]\n\tOrdinal0 [0x00A73F66+1130342]\n\tOrdinal0 [0x00A4E546+976198]\n\tOrdinal0 [0x00A4F456+980054]\n\tGetHandleVerifier [0x00D59632+1727522]\n\tGetHandleVerifier [0x00E0BA4D+2457661]\n\tGetHandleVerifier [0x00C3EB81+569713]\n\tGetHandleVerifier [0x00C3DD76+566118]\n\tOrdinal0 [0x00B40B2B+1968939]\n\tOrdinal0 [0x00B45988+1989000]\n\tOrdinal0 [0x00B45A75+1989237]\n\tOrdinal0 [0x00B4ECB1+2026673]\n\tBaseThreadInitThunk [0x76C46739+25]\n\tRtlGetFullPathName_UEx [0x77C28E7F+1215]\n\tRtlGetFullPathName_UEx [0x77C28E4D+1165]\n"
+}
